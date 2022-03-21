@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jam516
-- 👀 I’m interested in Python for data science and deep learning
-- 🌱 I’m currently learning blockchain smart contracts
+- 👋 Hi, I’m Kofi
+- 👀 I’m good at Python for data science
+- 🌱 I’m currently learning web3 dev
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: kufuorkofi@gmail.com
 
