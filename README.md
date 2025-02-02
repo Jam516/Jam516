@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Kofi
-- 👀 I’m good at Python for data science
-- 🌱 I’m currently learning frontend dev
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me: kufuorkofi@gmail.com
+- Crypto Data Nerd working on BundleBear.com
 
 <!---
 Jam516/Jam516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
